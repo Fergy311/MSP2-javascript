@@ -5,7 +5,7 @@
 
 * This will be my submission for Codes institute's Milestone Project two in my web applictation development course, showcaseing my Javascript delvelopment.
 
-## [Live project] (https://github.com/Fergy311/MSP2-javascript)
+## [Live project] (https://fergy311.github.io/MSP2-javascript/)
 
 ## [MSP Repsoitory ] (https://github.com/Fergy311/MSP2-javascript)
 
