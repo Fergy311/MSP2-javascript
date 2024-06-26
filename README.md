@@ -60,9 +60,7 @@
 
 - I used emojis from the windows emoji keybord just for ease of access aswell as accessibility, because they are recognisable to people of all ages.
 
-# Wireframes
-
-<h2 align ="center"><imf src=assets/ReadMe/Wireframe.png></h2>
+# [Wireframes](https://drive.google.com/file/d/1w_Qncejecv9n1E8l0ieZAk1ejdNXxkwA/view?usp=sharing)
 
 
 ### Structure
