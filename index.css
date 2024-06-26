@@ -32,6 +32,11 @@ h2{
     letter-spacing: 0.1em;
 }
 
+p{
+    font-size: 3em;
+    color: #fff;
+}
+
 .reset{
     padding: 15px 20px;
     color: #267c65;
