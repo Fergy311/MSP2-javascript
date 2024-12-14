@@ -23,23 +23,23 @@ the Memory game websites has bee tested using the following methods:
 ## W3C HTML Validator
 The Memory Game website passed all tests using the [W3C HTML](https://validator.w3.org/nu/) Validator tool.
 
-<h2 align="center"><image src="assets/testing/W3CHTMLVAL.png"></h2>
+<h2 align="center"><image src="assets/Testing/W3CHTMLVAL.png"></h2>
 
 ## W3C CSS Validator
 The Memory Game Website passed all tests using the [W3C CSS](https://jigsaw.w3.org/css-validator/) Validator tool
 
 
-<h2 align="center"><image src="assets/testing/W3CCSSVAL.png"></h2>
+<h2 align="center"><image src="assets/Testing/W3CCSSVAL.png"></h2>
 
 # lighthouse
 
 ### Lighthouse Report for Game Page (Desktop)
 
-<h2 align="center"><image src="assets/testing/LighthouseTestDT.png"></h2>
+<h2 align="center"><image src="assets/Testing/LighthouseTestDT.png"></h2>
 
 ### Lighthouse Report for Game Page (Mobile)
 
-<h2 align="center"><image src="assets/testing/LighthouseTestMB.png"></h2>
+<h2 align="center"><image src="assets/Testing/LighthouseTestMB.png"></h2>
 
 I used the Lighthouse reports in Google Developer Tools to examine the pages of the website for the following
 - Performace
@@ -56,7 +56,7 @@ All Pages performed well (scored 95 and above) in:
 
 The website page were tested using the A11y Color Contrast Accessibility Checker and no automated colour contrast issues were found.
 
-<h2 align="center"><image src="assets/testing/ColourContrastTest.png"></h2>
+<h2 align="center"><image src="assets/Testing/ColourContrastTest.png"></h2>
 
 # Browser Compatabillity 
 
