@@ -23,7 +23,7 @@ the Memory game websites has bee tested using the following methods:
 ## W3C HTML Validator
 The Memory Game website passed all tests using the [W3C HTML](https://validator.w3.org/nu/) Validator tool.
 
-<h2 align="center"><image src="assets/Testing/W3CHTMLVAL.PNG"></h2>
+<h2 align="center"><image src="assets/Testing/w3chtmlval.png"></h2>
 
 ## W3C CSS Validator
 The Memory Game Website passed all tests using the [W3C CSS](https://jigsaw.w3.org/css-validator/) Validator tool
